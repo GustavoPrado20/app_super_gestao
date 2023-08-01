@@ -93,7 +93,8 @@
     "autoload": {
         "files": [
             "src/Illuminate/Foundation/helpers.php",
-            "src/Illuminate/Support/helpers.php"
+            "src/Illuminate/Support/helpers.php",
+            "app/helpers.php"
         ],
         "psr-4": {
             "Illuminate\\": "src/Illuminate/"
